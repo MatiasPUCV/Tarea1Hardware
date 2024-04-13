@@ -1,0 +1,3 @@
+C:/Users/viroz/OneDrive/Escritorio/uawgs/build/CMakeFiles/Barberia.dir
+C:/Users/viroz/OneDrive/Escritorio/uawgs/build/CMakeFiles/edit_cache.dir
+C:/Users/viroz/OneDrive/Escritorio/uawgs/build/CMakeFiles/rebuild_cache.dir

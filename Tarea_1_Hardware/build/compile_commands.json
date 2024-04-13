@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/viroz/OneDrive/Escritorio/uawgs/build",
+  "command": "C:/w64devkit/bin/gcc.exe  @CMakeFiles/Barberia.dir/includes_C.rsp -g -o CMakeFiles/Barberia.dir/src/main.c.obj -c C:/Users/viroz/OneDrive/Escritorio/uawgs/src/main.c",
+  "file": "C:/Users/viroz/OneDrive/Escritorio/uawgs/src/main.c",
+  "output": "CMakeFiles/Barberia.dir/src/main.c.obj"
+}
+]
